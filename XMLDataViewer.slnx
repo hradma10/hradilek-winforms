@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/Položky řešení/" />
+  <Project Path="XMLDataViewer.Core/XMLDataViewer.Core.csproj" />
+  <Project Path="XMLDataViewer.Tests/XMLDataViewer.Tests.csproj" />
+  <Project Path="XMLDataViewer/XMLDataViewer.csproj" />
+</Solution>
